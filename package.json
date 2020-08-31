@@ -25,10 +25,17 @@
     "blog",
     "no-api"
   ],
-  "author": "Temitope Plajide\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[O",
+  "author": "Morganox (https://github.com/Morganox/zambel.git)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tope-olajide/simple-react-blog/issues"
+    "url": "https://github.com/Morganox/zambel.git"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morganox/zambel.git"
   },
   "browserslist": {
     "production": [
